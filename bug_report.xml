@@ -1,1 +1,9 @@
-
+<Summary>При клике на ссылку зарегистрироваться нет кнопки выбора страны для ввода номера телефона</Summary>
+<Severity>Критическая</Severity>
+<Steps to reproduce>1) Открыть сайт. 
+		2) Нажать на кнопку зарегистрироваться.
+		3) Ввести номер телефона",
+</Steps to reproduce>
+<Actual result>Нет выбора страны для ввода номера телефона</Actual result>
+<Expected Result>Есть выпадающее меню с выбором страны для ввода номера телефона</Expected Result>
+<Priority>High</Priority>
